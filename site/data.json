@@ -7928,6 +7928,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17761930332",
       "year": 2026
+    },
+    {
+      "date": "2026-03-18",
+      "hour": 11,
+      "name": "Lunch Alpine Ski",
+      "subtype": "AlpineSki",
+      "type": "AlpineSki",
+      "url": "https://www.strava.com/activities/17772210992",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-18",
+      "hour": 10,
+      "name": "Ski:IQ\u2122 131 with Carv \u26f7\ufe0f",
+      "subtype": "AlpineSki",
+      "type": "AlpineSki",
+      "url": "https://www.strava.com/activities/17773172453",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -15048,6 +15066,16 @@
           "distance": 60874.3,
           "elevation_gain": 3520.5,
           "moving_time": 16549.0
+        },
+        "2026-03-18": {
+          "activity_ids": [
+            "17772210992",
+            "17773172453"
+          ],
+          "count": 2,
+          "distance": 65897.0,
+          "elevation_gain": 4031.9,
+          "moving_time": 17466.0
         }
       },
       "Run": {
@@ -15423,7 +15451,7 @@
       }
     }
   },
-  "generated_at": "2026-03-18T16:11:59.071256+00:00",
+  "generated_at": "2026-03-19T16:00:42.209603+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/1208134",
   "repo": "meseer/git-sweaty",
