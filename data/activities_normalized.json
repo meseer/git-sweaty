@@ -11477,5 +11477,31 @@
     "start_date_local": "2026-03-18T10:57:12Z",
     "type": "AlpineSki",
     "year": 2026
+  },
+  {
+    "date": "2026-03-19",
+    "distance": 26819.9,
+    "elevation_gain": 95.4,
+    "id": "17785089503",
+    "moving_time": 6272.0,
+    "name": "Morning Alpine Ski",
+    "raw_activity_type": "AlpineSki",
+    "raw_type": "AlpineSki",
+    "start_date_local": "2026-03-19T10:39:19Z",
+    "type": "AlpineSki",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-19",
+    "distance": 54485.4,
+    "elevation_gain": 4302.2,
+    "id": "17785168834",
+    "moving_time": 14537.0,
+    "name": "Ski:IQ\u2122 136 with Carv \u26f7\ufe0f",
+    "raw_activity_type": "AlpineSki",
+    "raw_type": "AlpineSki",
+    "start_date_local": "2026-03-19T10:31:51Z",
+    "type": "AlpineSki",
+    "year": 2026
   }
 ]
