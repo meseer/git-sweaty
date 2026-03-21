@@ -11503,5 +11503,18 @@
     "start_date_local": "2026-03-19T10:31:51Z",
     "type": "AlpineSki",
     "year": 2026
+  },
+  {
+    "date": "2026-03-20",
+    "distance": 11026.4,
+    "elevation_gain": 50.0,
+    "id": "17796490970",
+    "moving_time": 3457.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-20T15:02:39Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
