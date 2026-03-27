@@ -11594,5 +11594,31 @@
     "start_date_local": "2026-03-25T19:10:07Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-26",
+    "distance": 8212.2,
+    "elevation_gain": 22.0,
+    "id": "17872987284",
+    "moving_time": 2609.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-26T19:57:00Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-26",
+    "distance": 6500.0,
+    "elevation_gain": 0.0,
+    "id": "17873043204",
+    "moving_time": 1980.0,
+    "name": "Dead watch run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-26T20:40:43Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

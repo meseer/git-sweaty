@@ -8027,6 +8027,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17861112460",
       "year": 2026
+    },
+    {
+      "date": "2026-03-26",
+      "hour": 19,
+      "name": "Evening Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17872987284",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-26",
+      "hour": 20,
+      "name": "Dead watch run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17873043204",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -15593,11 +15611,21 @@
           "distance": 6580.2,
           "elevation_gain": 69.0,
           "moving_time": 2159.0
+        },
+        "2026-03-26": {
+          "activity_ids": [
+            "17872987284",
+            "17873043204"
+          ],
+          "count": 2,
+          "distance": 14712.2,
+          "elevation_gain": 22.0,
+          "moving_time": 4589.0
         }
       }
     }
   },
-  "generated_at": "2026-03-26T16:16:33.670135+00:00",
+  "generated_at": "2026-03-27T15:58:21.338881+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/1208134",
   "repo": "meseer/git-sweaty",
