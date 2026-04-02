@@ -11685,5 +11685,18 @@
     "start_date_local": "2026-03-31T06:28:14Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-01",
+    "distance": 6082.2,
+    "elevation_gain": 367.0,
+    "id": "17944873145",
+    "moving_time": 2602.0,
+    "name": "Knee Knacker Wednesday #1",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-04-01T17:40:40Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
