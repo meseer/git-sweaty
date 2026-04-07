@@ -11776,5 +11776,18 @@
     "start_date_local": "2026-04-05T18:10:18Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-04-05",
+    "distance": 3900.0,
+    "elevation_gain": 321.0,
+    "id": "18004619889",
+    "moving_time": 3426.0,
+    "name": "Afternoon Hike",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-04-05T16:28:41Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
