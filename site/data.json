@@ -8243,6 +8243,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18139852210",
       "year": 2026
+    },
+    {
+      "date": "2026-04-19",
+      "hour": 9,
+      "name": "Sun Run 2026",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18175223728",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-19",
+      "hour": 15,
+      "name": "Afternoon Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18178945380",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -15968,6 +15986,16 @@
           "distance": 5203.4,
           "elevation_gain": 16.0,
           "moving_time": 1839.0
+        },
+        "2026-04-19": {
+          "activity_ids": [
+            "18175223728",
+            "18178945380"
+          ],
+          "count": 2,
+          "distance": 28280.199999999997,
+          "elevation_gain": 235.0,
+          "moving_time": 8419.0
         }
       },
       "TrailRun": {
@@ -16001,7 +16029,7 @@
       }
     }
   },
-  "generated_at": "2026-04-19T15:42:54.225634+00:00",
+  "generated_at": "2026-04-20T16:16:14.285450+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/1208134",
   "repo": "meseer/git-sweaty",
