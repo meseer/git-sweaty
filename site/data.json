@@ -8261,6 +8261,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18178945380",
       "year": 2026
+    },
+    {
+      "date": "2026-04-20",
+      "hour": 12,
+      "name": "Lunch Alpine Ski",
+      "subtype": "AlpineSki",
+      "type": "AlpineSki",
+      "url": "https://www.strava.com/activities/18190110237",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -15421,6 +15430,15 @@
           "distance": 42953.399999999994,
           "elevation_gain": 3057.5,
           "moving_time": 12085.0
+        },
+        "2026-04-20": {
+          "activity_ids": [
+            "18190110237"
+          ],
+          "count": 1,
+          "distance": 21028.7,
+          "elevation_gain": 94.8,
+          "moving_time": 3601.0
         }
       },
       "Hike": {
@@ -16029,7 +16047,7 @@
       }
     }
   },
-  "generated_at": "2026-04-20T16:16:14.285450+00:00",
+  "generated_at": "2026-04-21T16:14:43.068658+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/1208134",
   "repo": "meseer/git-sweaty",
