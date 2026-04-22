@@ -11945,5 +11945,31 @@
     "start_date_local": "2026-04-20T12:48:49Z",
     "type": "AlpineSki",
     "year": 2026
+  },
+  {
+    "date": "2026-04-20",
+    "distance": 39467.3,
+    "elevation_gain": 4032.3,
+    "id": "18201354213",
+    "moving_time": 9040.0,
+    "name": "Ski:IQ\u2122 133 with Carv \u26f7\ufe0f",
+    "raw_activity_type": "AlpineSki",
+    "raw_type": "AlpineSki",
+    "start_date_local": "2026-04-20T12:44:52Z",
+    "type": "AlpineSki",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-21",
+    "distance": 6035.1,
+    "elevation_gain": 40.0,
+    "id": "18207179274",
+    "moving_time": 1963.0,
+    "name": "Night Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-21T21:20:22Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
