@@ -8288,6 +8288,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18207179274",
       "year": 2026
+    },
+    {
+      "date": "2026-04-22",
+      "hour": 17,
+      "name": "Knee Knacker Wednesday #4",
+      "subtype": "TrailRun",
+      "type": "TrailRun",
+      "url": "https://www.strava.com/activities/18220278373",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16071,11 +16080,20 @@
           "distance": 8184.6,
           "elevation_gain": 409.0,
           "moving_time": 3364.0
+        },
+        "2026-04-22": {
+          "activity_ids": [
+            "18220278373"
+          ],
+          "count": 1,
+          "distance": 9718.6,
+          "elevation_gain": 558.0,
+          "moving_time": 4409.0
         }
       }
     }
   },
-  "generated_at": "2026-04-22T16:13:11.673734+00:00",
+  "generated_at": "2026-04-23T16:46:57.926581+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/1208134",
   "repo": "meseer/git-sweaty",
