@@ -12062,5 +12062,18 @@
     "start_date_local": "2026-05-02T11:23:13Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-03",
+    "distance": 43196.0,
+    "elevation_gain": 252.0,
+    "id": "18365045537",
+    "moving_time": 13861.0,
+    "name": "BMO Vancouver Marathon 2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-03T08:32:57Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
