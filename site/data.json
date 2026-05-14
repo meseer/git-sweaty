@@ -8396,6 +8396,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18485284759",
       "year": 2026
+    },
+    {
+      "date": "2026-05-13",
+      "hour": 17,
+      "name": "KK Wednesday 7",
+      "subtype": "TrailRun",
+      "type": "TrailRun",
+      "url": "https://www.strava.com/activities/18498582210",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16287,11 +16296,20 @@
           "distance": 17620.5,
           "elevation_gain": 911.0,
           "moving_time": 8697.0
+        },
+        "2026-05-13": {
+          "activity_ids": [
+            "18498582210"
+          ],
+          "count": 1,
+          "distance": 8651.2,
+          "elevation_gain": 945.0,
+          "moving_time": 5568.0
         }
       }
     }
   },
-  "generated_at": "2026-05-13T17:20:38.615933+00:00",
+  "generated_at": "2026-05-14T17:05:09.211792+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/1208134",
   "repo": "meseer/git-sweaty",
