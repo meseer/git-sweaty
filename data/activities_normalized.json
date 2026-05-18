@@ -12140,5 +12140,31 @@
     "start_date_local": "2026-05-13T17:39:39Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-05-17",
+    "distance": 5799.6,
+    "elevation_gain": 321.0,
+    "id": "18546752116",
+    "moving_time": 3809.0,
+    "name": "Morning Hike",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-05-17T09:21:33Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-17",
+    "distance": 21869.8,
+    "elevation_gain": 1063.0,
+    "id": "18549290009",
+    "moving_time": 10615.0,
+    "name": "Afternoon Trail Run",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-05-17T13:31:09Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]

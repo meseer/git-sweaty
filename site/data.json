@@ -8405,6 +8405,24 @@
       "type": "TrailRun",
       "url": "https://www.strava.com/activities/18498582210",
       "year": 2026
+    },
+    {
+      "date": "2026-05-17",
+      "hour": 9,
+      "name": "Morning Hike",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/18546752116",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-17",
+      "hour": 13,
+      "name": "Afternoon Trail Run",
+      "subtype": "TrailRun",
+      "type": "TrailRun",
+      "url": "https://www.strava.com/activities/18549290009",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -15588,6 +15606,15 @@
           "distance": 7799.299999999999,
           "elevation_gain": 637.0,
           "moving_time": 6858.0
+        },
+        "2026-05-17": {
+          "activity_ids": [
+            "18546752116"
+          ],
+          "count": 1,
+          "distance": 5799.6,
+          "elevation_gain": 321.0,
+          "moving_time": 3809.0
         }
       },
       "Run": {
@@ -16305,11 +16332,20 @@
           "distance": 8651.2,
           "elevation_gain": 945.0,
           "moving_time": 5568.0
+        },
+        "2026-05-17": {
+          "activity_ids": [
+            "18549290009"
+          ],
+          "count": 1,
+          "distance": 21869.8,
+          "elevation_gain": 1063.0,
+          "moving_time": 10615.0
         }
       }
     }
   },
-  "generated_at": "2026-05-17T16:02:25.412255+00:00",
+  "generated_at": "2026-05-18T17:32:33.438902+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/1208134",
   "repo": "meseer/git-sweaty",
