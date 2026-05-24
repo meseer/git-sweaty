@@ -12179,5 +12179,18 @@
     "start_date_local": "2026-05-22T18:43:03Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-22",
+    "distance": 10216.5,
+    "elevation_gain": 108.0,
+    "id": "18625161461",
+    "moving_time": 2920.0,
+    "name": "Salomon Event",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-22T18:43:03Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
