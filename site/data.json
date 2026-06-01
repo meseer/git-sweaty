@@ -8486,6 +8486,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18717321267",
       "year": 2026
+    },
+    {
+      "date": "2026-05-31",
+      "hour": 7,
+      "name": "Knee Knacker Sunday",
+      "subtype": "TrailRun",
+      "type": "TrailRun",
+      "url": "https://www.strava.com/activities/18733958364",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16450,6 +16459,15 @@
           "distance": 13224.3,
           "elevation_gain": 921.0,
           "moving_time": 6904.0
+        },
+        "2026-05-31": {
+          "activity_ids": [
+            "18733958364"
+          ],
+          "count": 1,
+          "distance": 30082.7,
+          "elevation_gain": 1473.0,
+          "moving_time": 15268.0
         }
       },
       "Walk": {
@@ -16465,7 +16483,7 @@
       }
     }
   },
-  "generated_at": "2026-05-31T16:16:16.633291+00:00",
+  "generated_at": "2026-06-01T19:57:12.190584+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/1208134",
   "repo": "meseer/git-sweaty",
