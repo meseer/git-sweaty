@@ -12283,5 +12283,31 @@
     "start_date_local": "2026-06-02T19:43:30Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-03",
+    "distance": 16823.6,
+    "elevation_gain": 899.0,
+    "id": "18778547603",
+    "moving_time": 7838.0,
+    "name": "KK Wednesday",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-06-03T17:44:34Z",
+    "type": "TrailRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-04",
+    "distance": 2274.0,
+    "elevation_gain": 780.0,
+    "id": "18791512451",
+    "moving_time": 2655.0,
+    "name": "GG w/team",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-06-04T17:58:15Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
