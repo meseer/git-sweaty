@@ -12322,5 +12322,18 @@
     "start_date_local": "2026-06-06T10:56:51Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-06-07",
+    "distance": 23559.6,
+    "elevation_gain": 1332.0,
+    "id": "18828539041",
+    "moving_time": 11857.0,
+    "name": "KK Sunday #6",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-06-07T08:09:19Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
