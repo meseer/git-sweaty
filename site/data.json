@@ -8576,6 +8576,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18908485384",
       "year": 2026
+    },
+    {
+      "date": "2026-06-14",
+      "hour": 8,
+      "name": "KK Sunday #7",
+      "subtype": "TrailRun",
+      "type": "TrailRun",
+      "url": "https://www.strava.com/activities/18922260837",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16630,6 +16639,15 @@
           "distance": 15973.2,
           "elevation_gain": 983.0,
           "moving_time": 8127.0
+        },
+        "2026-06-14": {
+          "activity_ids": [
+            "18922260837"
+          ],
+          "count": 1,
+          "distance": 32127.4,
+          "elevation_gain": 1274.0,
+          "moving_time": 15358.0
         }
       },
       "Walk": {
@@ -16645,7 +16663,7 @@
       }
     }
   },
-  "generated_at": "2026-06-14T16:27:23.801469+00:00",
+  "generated_at": "2026-06-15T19:06:08.188584+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/1208134",
   "repo": "meseer/git-sweaty",
