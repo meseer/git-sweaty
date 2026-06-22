@@ -12452,5 +12452,18 @@
     "start_date_local": "2026-06-20T15:33:38Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-21",
+    "distance": 33416.8,
+    "elevation_gain": 2024.0,
+    "id": "19015041042",
+    "moving_time": 17848.0,
+    "name": "KK Sunday #8: first 3/4",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-06-21T08:06:14Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
