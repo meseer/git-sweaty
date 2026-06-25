@@ -12478,5 +12478,18 @@
     "start_date_local": "2026-06-23T17:58:19Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-24",
+    "distance": 14135.3,
+    "elevation_gain": 963.0,
+    "id": "19056934470",
+    "moving_time": 8129.0,
+    "name": "KK Wednesday",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-06-24T17:44:02Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
