@@ -12582,5 +12582,18 @@
     "start_date_local": "2026-07-09T07:22:08Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-11",
+    "distance": 46046.9,
+    "elevation_gain": 2605.0,
+    "id": "19273662575",
+    "moving_time": 24093.0,
+    "name": "Knee Knacker 2026",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-07-11T06:00:06Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
