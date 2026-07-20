@@ -12647,5 +12647,31 @@
     "start_date_local": "2026-07-17T20:41:19Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-19",
+    "distance": 21626.8,
+    "elevation_gain": 881.0,
+    "id": "19380548134",
+    "moving_time": 8676.0,
+    "name": "Annual Elfin Lakes",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-07-19T08:34:46Z",
+    "type": "TrailRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-19",
+    "distance": 12635.8,
+    "elevation_gain": 52.0,
+    "id": "19384114956",
+    "moving_time": 3660.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-19T20:36:41Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

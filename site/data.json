@@ -8756,6 +8756,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19357445501",
       "year": 2026
+    },
+    {
+      "date": "2026-07-19",
+      "hour": 8,
+      "name": "Annual Elfin Lakes",
+      "subtype": "TrailRun",
+      "type": "TrailRun",
+      "url": "https://www.strava.com/activities/19380548134",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-19",
+      "hour": 20,
+      "name": "Evening Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19384114956",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16772,6 +16790,15 @@
           "distance": 7376.9,
           "elevation_gain": 49.0,
           "moving_time": 2077.0
+        },
+        "2026-07-19": {
+          "activity_ids": [
+            "19384114956"
+          ],
+          "count": 1,
+          "distance": 12635.8,
+          "elevation_gain": 52.0,
+          "moving_time": 3660.0
         }
       },
       "TrailRun": {
@@ -16990,6 +17017,15 @@
           "distance": 5307.4,
           "elevation_gain": 792.0,
           "moving_time": 3982.0
+        },
+        "2026-07-19": {
+          "activity_ids": [
+            "19380548134"
+          ],
+          "count": 1,
+          "distance": 21626.8,
+          "elevation_gain": 881.0,
+          "moving_time": 8676.0
         }
       },
       "Walk": {
@@ -17005,7 +17041,7 @@
       }
     }
   },
-  "generated_at": "2026-07-19T16:02:08.134481+00:00",
+  "generated_at": "2026-07-20T16:27:52.460629+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/1208134",
   "repo": "meseer/git-sweaty",
