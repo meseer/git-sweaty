@@ -12686,5 +12686,18 @@
     "start_date_local": "2026-07-21T19:53:55Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-23",
+    "distance": 5300.7,
+    "elevation_gain": 950.0,
+    "id": "19440792244",
+    "moving_time": 3855.0,
+    "name": "GG to the top and back",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-07-23T20:27:31Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
