@@ -8801,6 +8801,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19453282610",
       "year": 2026
+    },
+    {
+      "date": "2026-07-26",
+      "hour": 11,
+      "name": "Windy Joe never disappoints",
+      "subtype": "TrailRun",
+      "type": "TrailRun",
+      "url": "https://www.strava.com/activities/19478382781",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -17080,6 +17089,15 @@
           "distance": 5300.7,
           "elevation_gain": 950.0,
           "moving_time": 3855.0
+        },
+        "2026-07-26": {
+          "activity_ids": [
+            "19478382781"
+          ],
+          "count": 1,
+          "distance": 20449.0,
+          "elevation_gain": 795.0,
+          "moving_time": 8589.0
         }
       },
       "Walk": {
@@ -17095,7 +17113,7 @@
       }
     }
   },
-  "generated_at": "2026-07-26T16:06:00.597868+00:00",
+  "generated_at": "2026-07-27T17:02:20.608296+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/1208134",
   "repo": "meseer/git-sweaty",

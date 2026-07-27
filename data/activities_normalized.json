@@ -12712,5 +12712,18 @@
     "start_date_local": "2026-07-24T19:31:29Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-26",
+    "distance": 20449.0,
+    "elevation_gain": 795.0,
+    "id": "19478382781",
+    "moving_time": 8589.0,
+    "name": "Windy Joe never disappoints",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-07-26T11:13:23Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
