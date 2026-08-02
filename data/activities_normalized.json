@@ -12764,5 +12764,18 @@
     "start_date_local": "2026-07-31T19:35:44Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-01",
+    "distance": 14247.2,
+    "elevation_gain": 1543.0,
+    "id": "19563985371",
+    "moving_time": 13206.0,
+    "name": "Brunswick Mountain",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-08-01T16:42:02Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
