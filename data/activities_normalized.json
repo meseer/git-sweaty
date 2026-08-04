@@ -12777,5 +12777,18 @@
     "start_date_local": "2026-08-01T16:42:02Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-08-03",
+    "distance": 5003.8,
+    "elevation_gain": 791.0,
+    "id": "19589714337",
+    "moving_time": 4163.0,
+    "name": "GG up BCMC down",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-08-03T15:04:59Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]

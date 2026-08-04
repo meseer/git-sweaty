@@ -8846,6 +8846,15 @@
       "type": "Hike",
       "url": "https://www.strava.com/activities/19563985371",
       "year": 2026
+    },
+    {
+      "date": "2026-08-03",
+      "hour": 15,
+      "name": "GG up BCMC down",
+      "subtype": "TrailRun",
+      "type": "TrailRun",
+      "url": "https://www.strava.com/activities/19589714337",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -17170,6 +17179,15 @@
           "distance": 20449.0,
           "elevation_gain": 795.0,
           "moving_time": 8589.0
+        },
+        "2026-08-03": {
+          "activity_ids": [
+            "19589714337"
+          ],
+          "count": 1,
+          "distance": 5003.8,
+          "elevation_gain": 791.0,
+          "moving_time": 4163.0
         }
       },
       "Walk": {
@@ -17185,7 +17203,7 @@
       }
     }
   },
-  "generated_at": "2026-08-03T17:12:28.500215+00:00",
+  "generated_at": "2026-08-04T16:56:52.266828+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/1208134",
   "repo": "meseer/git-sweaty",
