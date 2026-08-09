@@ -12803,5 +12803,18 @@
     "start_date_local": "2026-08-05T18:07:51Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-08",
+    "distance": 21178.9,
+    "elevation_gain": 126.0,
+    "id": "19656901141",
+    "moving_time": 5946.0,
+    "name": "Seawheeze 2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-08T07:00:39Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
