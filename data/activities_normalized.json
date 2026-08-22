@@ -12871,14 +12871,27 @@
   },
   {
     "date": "2026-08-21",
-    "distance": 164.3,
-    "elevation_gain": 45.0,
+    "distance": 141.9,
+    "elevation_gain": 44.6,
     "id": "19838663231",
-    "moving_time": 101.0,
+    "moving_time": 81.0,
     "name": "Afternoon Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
     "start_date_local": "2026-08-21T16:33:52Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-21",
+    "distance": 145.8,
+    "elevation_gain": 35.0,
+    "id": "19838896713",
+    "moving_time": 83.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-21T16:53:47Z",
     "type": "Run",
     "year": 2026
   }
