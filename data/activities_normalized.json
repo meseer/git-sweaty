@@ -12907,5 +12907,18 @@
     "start_date_local": "2026-08-22T12:48:25Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-08-23",
+    "distance": 20957.9,
+    "elevation_gain": 977.0,
+    "id": "19870318550",
+    "moving_time": 15174.0,
+    "name": "Afternoon Hike",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-08-23T15:07:51Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
