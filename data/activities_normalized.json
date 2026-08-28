@@ -12920,5 +12920,18 @@
     "start_date_local": "2026-08-23T15:07:51Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-08-23",
+    "distance": 24621.2,
+    "elevation_gain": 956.9,
+    "id": "19938417124",
+    "moving_time": 16865.0,
+    "name": "Pico Da Nevosa",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-08-23T15:07:51Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
