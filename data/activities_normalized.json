@@ -13089,5 +13089,18 @@
     "start_date_local": "2026-09-20T09:58:38Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-20",
+    "distance": 20587.5,
+    "elevation_gain": 115.0,
+    "id": "20260250474",
+    "moving_time": 7226.0,
+    "name": "Scenic route home",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-20T11:11:35Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
