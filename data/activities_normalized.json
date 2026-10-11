@@ -13245,5 +13245,18 @@
     "start_date_local": "2026-10-08T18:49:04Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-11",
+    "distance": 42571.0,
+    "elevation_gain": 233.0,
+    "id": "20546520311",
+    "moving_time": 13177.0,
+    "name": "2026 Royal Victoria Marathon",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-11T08:22:08Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
