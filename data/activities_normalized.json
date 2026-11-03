@@ -13388,5 +13388,18 @@
     "start_date_local": "2026-10-30T18:26:12Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-03",
+    "distance": 14866.4,
+    "elevation_gain": 157.0,
+    "id": "20841843333",
+    "moving_time": 4787.0,
+    "name": "La Ciotat",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-03T12:05:29Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
