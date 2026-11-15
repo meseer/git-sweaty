@@ -9327,7 +9327,7 @@
     {
       "date": "2026-11-14",
       "hour": 8,
-      "name": "Morning Trail Run",
+      "name": "The Phantom Run",
       "subtype": "TrailRun",
       "type": "TrailRun",
       "url": "https://www.strava.com/activities/20987816354",
@@ -18135,7 +18135,7 @@
       }
     }
   },
-  "generated_at": "2026-11-14T19:50:12.498996+00:00",
+  "generated_at": "2026-11-15T20:15:09.431596+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/1208134",
   "repo": "meseer/git-sweaty",
